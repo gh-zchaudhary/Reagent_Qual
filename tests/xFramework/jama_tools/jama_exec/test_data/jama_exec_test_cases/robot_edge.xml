@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="0" tests="7" errors="0" name="Robot" skip="0">
+<testcase classname="Robot.Tests.Module.Added For Bip3.5.4.Reporting" name="GIVD-VER-7207: Verify that Clinvar ref file has both SNVs and Indels, and ghsomatic correctly calls these variants" time="5">
+</testcase>
+<testcase classname="Robot.Tests.Module.Auto Qc.Auto Qc Part2" name="TC_autoqc_20: Verify QC status for sample level metric 'On Target Rate' at threshold has PASS status" time="1">
+</testcase>
+<testcase classname="Robot.Tests.Module.Auto Qc.Auto Qc Part2" name="TC_autoqc_87: Verify NextSeq cluster density at threshold has PASS status" time="1">
+</testcase>
+<testcase classname="Robot.Tests.Module.Reporting Filter.Reporting Filter" name="TC_reporting_filter_113: Verify that reporting_filter has a rm_reportable of 1 if reportable variant is not in the list of tumor suppressor genes but the variant is on clinically actionable variant list" time="1">
+</testcase>
+<testcase classname="Robot.Tests.Module.Reporting Filter.Reporting Filter" name="TC_reporting_filter_114: Verify that g360_chip_filter has rm_reportable of 1 if nonsynonymous mnv is in MYC gene and is in known list of codon (variant is in codon 74 in the case)" time="8">
+</testcase>
+<testcase classname="Robot.Tests.Feature.Antn.Annotation" name="TC_annotation_02: Verify SNPEFF_GENE Annotation is correctly assigned" time="0">
+</testcase>
+<testcase classname="Robot.Tests.Feature.Input.Input Files" name="TC_input_3: Verify a flow cell will be failed if there is no AIO control" time="1797">
+</testcase>
+</testsuite>

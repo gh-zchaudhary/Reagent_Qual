@@ -1,0 +1,11 @@
+{
+  "jama_url": "https://guardanthealth.jamacloud.com",
+  "jama_project": "Guardant360 IVD",
+  "jama_test_plan": "D-001510 Guardant360 CDx BIP 3.5.4 V&V Test Plan",
+  "report_id": "D-001510",
+  "jama_test_cycle": "D-001510 Guardant360 CDx BIP 3.5.4 V&V",
+  "test_version_and_release_candidate": "D-001510",
+  "path_to_test_results": "test_data/jama_exec_test_cases/robot_edge.xml",
+  "test_results_type": "robot",
+  "bulk_comment": "Testing with bulk comment"
+}
